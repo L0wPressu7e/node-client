@@ -1,6 +1,6 @@
 {
-  "name": "@welups/client",
-  "version": "0.2.67",
+  "name": "@welups/node-client",
+  "version": "0.0.1",
   "main": "src/index.js",
   "author": {
     "name": "trucdev"
