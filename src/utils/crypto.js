@@ -245,6 +245,7 @@ function pkToAddress(privateKey) {
 }
 
 module.exports = {
+  computeAddress,
   signTransaction,
   passwordToAddress,
   genPriKey,
